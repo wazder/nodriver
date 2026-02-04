@@ -1,0 +1,1267 @@
+{
+  "scrape_date": "2026-02-04T04:04:30.401625",
+  "url": "https://www.sahibinden.com/satilik-daire/istanbul",
+  "total_listings": 20,
+  "listings": [
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1298201321"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "5.550.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Kartal\nYakacık"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "04 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "100"
+              },
+              {
+                "type": "string",
+                "value": "2+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1298198315"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "9.150.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Küçükçekmece\nHalkalı"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "04 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "101"
+              },
+              {
+                "type": "string",
+                "value": "1+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1269355682"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "5.500.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Gaziosmanpaşa\nYıldıztabya"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "04 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "1.350"
+              },
+              {
+                "type": "string",
+                "value": "3+2"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1230524442"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "9.250.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Gaziosmanpaşa\nKüçükköy"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "04 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "185"
+              },
+              {
+                "type": "string",
+                "value": "3+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1296556906"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "2.250.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "110"
+              },
+              {
+                "type": "string",
+                "value": "2+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1251622127"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "1.565.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "150"
+              },
+              {
+                "type": "string",
+                "value": "3+2"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1255557600"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "4.200.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Beylikdüzü\nKavaklı"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "150"
+              },
+              {
+                "type": "string",
+                "value": "3+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1296980221"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "1.999.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "115"
+              },
+              {
+                "type": "string",
+                "value": "2+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1294556388"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "3.250.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Başakşehir\nBahçeşehir"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "100"
+              },
+              {
+                "type": "string",
+                "value": "2+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1292768013"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "1.647.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt\nKıraç"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "145"
+              },
+              {
+                "type": "string",
+                "value": "3+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1221758360"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "1.314.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "140"
+              },
+              {
+                "type": "string",
+                "value": "2+2"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1297176785"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "2.599.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt\nHaramidere"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "100"
+              },
+              {
+                "type": "string",
+                "value": "2+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1293513253"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "4.750.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Beylikdüzü\nYakuplu"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "140"
+              },
+              {
+                "type": "string",
+                "value": "3+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1272557744"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "4.990.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Beylikdüzü\nGürpınar"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "135"
+              },
+              {
+                "type": "string",
+                "value": "2+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1295893904"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "7.500.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Beylikdüzü\nKavaklı"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "240"
+              },
+              {
+                "type": "string",
+                "value": "4+2"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1289774888"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "37.500.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Kadıköy\nErenköy"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "145"
+              },
+              {
+                "type": "string",
+                "value": "3+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1295527194"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "7.250.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Beylikdüzü\nKavaklı"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "160"
+              },
+              {
+                "type": "string",
+                "value": "3+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1298174088"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "7.950.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Başakşehir\nBahçeşehir"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "168"
+              },
+              {
+                "type": "string",
+                "value": "3+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1289980707"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "1.550.000 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "160"
+              },
+              {
+                "type": "string",
+                "value": "4+1"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "object",
+      "value": [
+        [
+          "id",
+          {
+            "type": "string",
+            "value": "1168280153"
+          }
+        ],
+        [
+          "title",
+          {
+            "type": "string",
+            "value": ""
+          }
+        ],
+        [
+          "url",
+          {
+            "type": "string",
+            "value": "#"
+          }
+        ],
+        [
+          "price",
+          {
+            "type": "string",
+            "value": "1.749.999 TL"
+          }
+        ],
+        [
+          "location",
+          {
+            "type": "string",
+            "value": "Esenyurt"
+          }
+        ],
+        [
+          "date",
+          {
+            "type": "string",
+            "value": "03 Şubat\n2026"
+          }
+        ],
+        [
+          "attributes",
+          {
+            "type": "array",
+            "value": [
+              {
+                "type": "string",
+                "value": "110"
+              },
+              {
+                "type": "string",
+                "value": "2+1"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

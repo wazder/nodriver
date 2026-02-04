@@ -1,0 +1,173 @@
+{
+  "cookies": [
+    {
+      "name": "vid",
+      "value": "45",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "cdid",
+      "value": "TOT58JFLy13g5M0N6982ad31",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_pxhd",
+      "value": "23e7b5492cfad9523b2146aabac8b5e4b9fb96ffe79e1b36e026a78410c06ab2:3baec662-0170-11f1-ae77-edf8940371e1",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "dp",
+      "value": "1470*956-landscape",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "geoipCity",
+      "value": "istanbul",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "geoipIsp",
+      "value": "turkcell_superonline",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1566333080.1770171700",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1770171700384.386344790810660025",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_dc_gtm_UA-235070-1",
+      "value": "1",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_pxvid",
+      "value": "3baec662-0170-11f1-ae77-edf8940371e1",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "pxcts",
+      "value": "3db422cd-0170-11f1-bc71-c67a01875f33",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-02-04T02:21:41.780Z",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "ulfuid",
+      "value": "55e134c9-e517-4388-8417-f5e4818ab726",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "gcd",
+      "value": "20260204052204",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "MDR",
+      "value": "20260204",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "lastVisit",
+      "value": "20260204",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "userType",
+      "value": "yeni_bireysel",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "shuid",
+      "value": "cJygiG-rPsJQWe0MySOIptA",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "dopingPurchase",
+      "value": "false",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "getPurchase",
+      "value": "false",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_gali",
+      "value": "searchSuggestionForm",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "MS1",
+      "value": "https://secure.sahibinden.com/giris/iki-asamali-dogrulama",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Wed+Feb+04+2026+05%3A22%3A12+GMT%2B0300+(GMT%2B03%3A00)&version=202503.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=ca6bf8ba-aa78-4ea5-b8c9-16b4e1b1e22a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0004%3A1%2CC0001%3A1%2CC0003%3A1%2CC0002%3A1&hosts=H183%3A1%2CH186%3A1%2CH131%3A1%2CH76%3A1%2CH106%3A1%2CH8%3A1%2CH80%3A1%2CH67%3A1%2CH27%3A1%2CH14%3A1%2CH31%3A1%2CH114%3A1%2CH184%3A1%2CH115%3A1%2CH117%3A1%2CH87%3A1%2CH88%3A1%2CH3%3A1%2CH4%3A1%2CH91%3A1%2CH194%3A1%2CH5%3A1%2CH185%3A1%2CH93%3A1%2CH180%3A1%2CH201%3A1%2CH195%3A1%2CH12%3A1%2CH17%3A1%2CH122%3A1%2CH96%3A1%2CH124%3A1%2CH64%3A1%2CH198%3A1&genVendors=&intType=1&geolocation=%3B&AwaitingReconsent=false",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1770171732720,\"i_b\":\"lPRgM0AUmsTeCdPdpLax7Bx52h418Hbv3WhEEWR7lvg\",\"i_e\":{\"enable_itp_optimization\":0}}",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_ga_CVPS3GXE1Z",
+      "value": "GS2.1.s1770171700$o1$g1$t1770171732$j28$l0$h0",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_ga_C1X44T5TZ9",
+      "value": "GS2.1.s1770171700$o1$g1$t1770171732$j28$l0$h0",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.167770662.1770171700",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    },
+    {
+      "name": "_px3",
+      "value": "5e9f1d1a6b38aa66b698f9f727cf2f7a87b627866b11acc08f79bc4c82fa6e8f:/43qoSC2VsBLzWRYE0sSLzArRPTCFZFW22TiWBWdP5J4ogk99fvDA39lja1RLrSOZE89rNKEvnn5C1za1+7Vag==:1000:jFRzSFqim8sn3xNSE+25AP2lVTzJhJ0BUjrQyK1nNodhso2p6zus1EnZPQE/zrbePDR2JLFwpA9SYdrHRs9em4L/RWpzsrTuxvx1x8/CdAlb7qICmp5r5Eu4LSnXfVh31QvPgOhHwWCXYzv2QoKQ+2/89TC3yfRtEn80Z/YkIAIxcBdpBj2U8eX2qj535/ZRMq5RDScD/UFcJI+KNd6I4pFM3HSZ2c9D7r3rCkr6trNC40R829P6WT6Pnr9C17q77i3R66w9smaeQwaMYSZfd9RnVceJVEvITCqvIeMoMTk9ftAiuUsXmVsrb7cWTLgVE6LdgBtZEpN5Ous6zNq/h/+QpC8gxfucbip80qXGdmY8TaPGKx2gOv787/WmZ3aR9X36mpq206Q/WHHUhy9G9p/DbwUktbGb9zqDOGYZ+bMYSW8s+Nw4mwEOyzozZskXHBV8XHk29kf/k/0yaz8vEbFHDB54nJwQ2Ac8HJKWZMg=",
+      "domain": ".sahibinden.com",
+      "path": "/"
+    }
+  ],
+  "saved_at": "2026-02-04T05:22:16.120612"
+}

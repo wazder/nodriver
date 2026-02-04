@@ -1,0 +1,271 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "email": "user1h1rj9z0@wazder.com",
+      "password": "SahPassDCJLvpWW66$",
+      "status": "active",
+      "created_at": "2026-02-04T15:40:21.427010",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "email": "userlcz3q63a@wazder.com",
+      "password": "SahPassaRJYYutL99#",
+      "status": "pending",
+      "created_at": "2026-02-04T15:43:18.093429",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "email": "s10051xwlr@wazder.com",
+      "password": "SahPassTfWwXuhk11$",
+      "status": "active",
+      "created_at": "2026-02-04T16:00:51.928678",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "email": "cem.yilmaz827@wazder.com",
+      "password": "SahPasskNhXvHt747%",
+      "status": "pending",
+      "created_at": "2026-02-04T16:09:00.036542",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "email": "ali_celik951@wazder.com",
+      "password": "SahPassPEVu6THR30!",
+      "status": "pending",
+      "created_at": "2026-02-04T16:11:35.325042",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "email": "users8tia8ci@wazder.com",
+      "password": "SahPassYmuBtbwW11#",
+      "status": "failed",
+      "created_at": "2026-02-04T16:14:29.512245",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Email input failed"
+    },
+    {
+      "id": 7,
+      "email": "eceak403@wazder.com",
+      "password": "SahPassyiFKMsOQ19#",
+      "status": "pending",
+      "created_at": "2026-02-04T16:15:58.580240",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "email": "ahmet.kaya818@wazder.com",
+      "password": "SahPasscWwKKfHg88#",
+      "status": "failed",
+      "created_at": "2026-02-04T16:18:34.097633",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Redirected to login page"
+    },
+    {
+      "id": 9,
+      "email": "s11226tdwy@wazder.com",
+      "password": "SahPasso56YvoQI67!",
+      "status": "failed",
+      "created_at": "2026-02-04T16:20:26.500912",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Redirected to login page"
+    },
+    {
+      "id": 10,
+      "email": "s11524bpey@wazder.com",
+      "password": "SahPass9VGZgHq921!",
+      "status": "failed",
+      "created_at": "2026-02-04T16:25:24.272323",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Redirected to login - email not accepted"
+    },
+    {
+      "id": 11,
+      "email": "userve6w4bna@wazder.com",
+      "password": "SahPassuCDXOcN678%",
+      "status": "failed",
+      "created_at": "2026-02-04T16:28:39.062327",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Redirected to login - email not accepted"
+    },
+    {
+      "id": 12,
+      "email": "ece_koc797@wazder.com",
+      "password": "SahPassfXlCFCHw25!",
+      "status": "failed",
+      "created_at": "2026-02-04T16:31:28.657610",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Redirected to login - email not accepted"
+    },
+    {
+      "id": 13,
+      "email": "s12038wkta@wazder.com",
+      "password": "SahPass3KMraFok91!",
+      "status": "pending",
+      "created_at": "2026-02-04T16:33:58.416637",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Verification code not received"
+    },
+    {
+      "id": 14,
+      "email": "userpp4pg58c@wazder.com",
+      "password": "SahPassqjZ4ZsxV18$",
+      "status": "pending",
+      "created_at": "2026-02-04T16:41:53.270999",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Verification code not received"
+    },
+    {
+      "id": 15,
+      "email": "deniz.demir587@wazder.com",
+      "password": "SahPasszO1mD1JW89!",
+      "status": "pending",
+      "created_at": "2026-02-04T16:47:07.575796",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Verification code not received"
+    },
+    {
+      "id": 16,
+      "email": "deniz.oz589@wazder.com",
+      "password": "SahPassjTvj8PV443#",
+      "status": "pending",
+      "created_at": "2026-02-04T16:50:52.470281",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Verification code not received"
+    },
+    {
+      "id": 17,
+      "email": "ayse_yilmaz133@wazder.com",
+      "password": "SahPassTZrsiqWS62%",
+      "status": "pending",
+      "created_at": "2026-02-04T17:00:15.083733",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "email": "ahmet_celik257@wazder.com",
+      "password": "SahPass9udwZGT772@",
+      "status": "pending",
+      "created_at": "2026-02-04T17:01:14.996050",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "email": "s13722gmpj@wazder.com",
+      "password": "SahPassgpxuhwN223#",
+      "status": "pending",
+      "created_at": "2026-02-04T17:02:02.996485",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "email": "userxi2mv9zf@wazder.com",
+      "password": "SahPassLgZCtBil46!",
+      "status": "pending",
+      "created_at": "2026-02-04T17:03:32.600674",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "email": "s13827ezci@wazder.com",
+      "password": "SahPasssoyg4pRR24@",
+      "status": "pending",
+      "created_at": "2026-02-04T17:03:47.566913",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "email": "s13998ndep@wazder.com",
+      "password": "SahPassaYH71zyY37$",
+      "status": "pending",
+      "created_at": "2026-02-04T17:06:38.561439",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "email": "ahmet.oz730@wazder.com",
+      "password": "SahPassJyIwfWU934#",
+      "status": "failed",
+      "created_at": "2026-02-04T17:09:03.769022",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Object of type Element is not JSON serializable"
+    },
+    {
+      "id": 24,
+      "email": "user7ji6o5o8@wazder.com",
+      "password": "SahPassRWR0myGA57$",
+      "status": "pending",
+      "created_at": "2026-02-04T17:10:33.128444",
+      "last_used": null,
+      "ban_until": null,
+      "cookies": null,
+      "notes": "Verification code not received"
+    }
+  ],
+  "active_account_index": 0,
+  "created_at": "2026-02-04T15:40:21.426943",
+  "last_updated": "2026-02-04T17:13:36.249847"
+}

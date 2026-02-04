@@ -147,16 +147,32 @@ async def scrape_with_js(tab, url: str) -> list[dict]:
                 // ID
                 listing.id = row.getAttribute('data-id') || '';
                 
-                // Başlık ve URL - titleCell içindeki a tag'i
-                const titleCell = row.querySelector('td.searchResultsTitleValue');
-                if (titleCell) {
-                    const titleLink = titleCell.querySelector('a');
-                    if (titleLink) {
-                        // Başlık: span içindeki text veya a'nın text'i
-                        const titleSpan = titleLink.querySelector('span');
-                        listing.title = titleSpan ? titleSpan.innerText.trim() : titleLink.innerText.trim();
-                        listing.url = titleLink.getAttribute('href') || '';
+                // Başlık ve URL - birden fazla selector dene
+                // 1. classifiedTitle class'ı olan a tag'i
+                let titleLink = row.querySelector('a.classifiedTitle');
+                // 2. titleCell içindeki a
+                if (!titleLink) {
+                    const titleCell = row.querySelector('td.searchResultsTitleValue');
+                    if (titleCell) {
+                        titleLink = titleCell.querySelector('a[href*="/ilan/"]');
                     }
+                }
+                // 3. Herhangi bir /ilan/ içeren link
+                if (!titleLink) {
+                    titleLink = row.querySelector('a[href*="/ilan/"]');
+                }
+                
+                if (titleLink) {
+                    // URL - href'i al
+                    const href = titleLink.getAttribute('href') || '';
+                    listing.url = href.startsWith('/') ? 'https://www.sahibinden.com' + href : href;
+                    
+                    // Başlık - title attribute veya innerText
+                    listing.title = titleLink.getAttribute('title') || 
+                                   titleLink.innerText.replace(/\\s+/g, ' ').trim() || '';
+                } else {
+                    listing.url = '';
+                    listing.title = '';
                 }
                 
                 // Fiyat
